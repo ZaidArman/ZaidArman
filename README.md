@@ -42,6 +42,8 @@ Zaid Ullah
 
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
@@ -61,11 +63,13 @@ Zaid Ullah
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite3" src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="InfluxDB" src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
+    <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"></a>
